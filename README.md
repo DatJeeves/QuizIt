@@ -60,8 +60,3 @@ for each terminal window we want to use as a client, change the name of the clie
 ##Commands for all Users
 * Who? - Returns a list of users in the chat.
 
-## Contributions
-
-* Jeevan: Completed PA04.
-* Marco: Worked on username checking and goodbye condition
-* Joseph: Helped debug and worked on goodbye condition
