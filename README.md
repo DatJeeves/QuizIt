@@ -1,4 +1,4 @@
-# dockerchat
+# QuizIt!
 A copy of the mtchat repo with updated docker files.
 
 This repo contains programs to implement a multi-threaded TCP chat server and client
