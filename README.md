@@ -14,20 +14,8 @@ This repo contains programs to implement a multi-threaded TCP chat server and cl
 ## Identifying Information
 
 * Name: Jeevan Acharya,
-* Student ID: 2313321,
-* Email: acharya@chapman.edu,
-* Course: CPSC 353 - 01
-* Assignment: PA 04
+* Email: JeevanAcharya22@gmail.com
 
-* Name: Marco Mauricio
-* Student ID: 2344979
-* Email: Mauricio@chapman.edu
-* Course: CPSC-353-01
-* Assignment: PA04
-
-* Name: Joseph Sneifer
-* Student ID: 2351513
-* Email: sneifer@chapman.edu
 
 ## Source Files
 
