@@ -28,7 +28,7 @@ This repo contains programs to implement a multi-threaded TCP chat server and cl
 
 ## References
 
-* Professor Fahy
+* Professor Michael Fahy, Chapman University
 
 ## Known Errors
 
